@@ -6,10 +6,9 @@ MIT License
 Difficulty: 0/10
 
 My grandma and I are baking apple pies. You will be given the number of pies I am baking.
-The amount of fat (grams) I gain is x^2 the calories I eat, where x is the number of calories eaten.
-I eat 500 calories from turkey on Thanksgiving.
+The amount of fat (grams) I gain is 2x the calories I eat, where x is the number of calories eaten.
 Each pie is 20 calories (and I eat all the pies I make!)
-Calculate and return how much fat I gained TOTAL on Thanksgiving.
+Calculate and return how much fat I gained on Thanksgiving.
 
 Input: number of pies I will bake (int). Can be any integer from [0, 15]
 Return: TOTAL amount of fat gained (int)
