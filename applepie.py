@@ -5,7 +5,7 @@ MIT License
 
 Difficulty: 0/10
 
-My grandma and I are baking apple pies. You will be given the number of pies I am baking.
+Jordan and I are baking apple pies. You will be given the number of pies I am baking.
 The amount of fat (grams) I gain is 2x the calories I eat, where x is the number of calories eaten.
 Each pie is 20 calories (and I eat all the pies I make!)
 Calculate and return how much fat I gained on Thanksgiving.
