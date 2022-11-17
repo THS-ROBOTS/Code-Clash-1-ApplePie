@@ -14,8 +14,8 @@ Input: number of pies I will bake (int). Can be any integer from [0, 15]
 Return: TOTAL amount of fat gained (int)
 
 Test Cases:
-Input: 5    Output: 360000
-Input: 1    Output: 270400
+Input: 5    Output: 200
+Input: 1    Output: 40
     
 """
 
